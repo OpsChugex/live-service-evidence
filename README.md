@@ -38,3 +38,15 @@ The workflow has read-only repository permissions and all actions are pinned to 
 A successful result proves only that the public OpsChugex health endpoint satisfied the documented contract at the recorded time.
 
 It is **not** an uptime guarantee, SLA result, customer outcome, penetration test, SOC 2 attestation or proof that every internal dependency is healthy.
+
+---
+
+## Related OpsChugex engineering
+
+For context on the engineering area represented in this repository:
+
+- [Engineering Proof](https://opschugex.com/engineering-proof)
+- [Trust Center](https://opschugex.com/trust)
+- [Service Status](https://opschugex.com/status)
+
+The repository classification, scope and limitations remain as documented above.
